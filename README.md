@@ -11,8 +11,7 @@ A fast command-line tool for analyzing log files and extracting useful insights 
   - ERROR
 - Identifies top repeated error messages
 - Clean, readable console output
-- Lightweight and fast (no external dependencies)
-
+- Lightweight and fast
 ## 🛠 Tech Stack
 
 - C++
